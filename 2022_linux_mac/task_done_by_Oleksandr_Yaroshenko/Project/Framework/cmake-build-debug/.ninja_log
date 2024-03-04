@@ -1,0 +1,4 @@
+# ninja log v5
+0	402	1705340927896748407	CMakeFiles/Framework.dir/src/launch.cpp.o	aee1222cd74429e7
+403	475	1705340927968749494	libFramework.so.0.0.1	714aacb240e075d8
+475	479	1705340927968749494	libFramework.so	d6f2480e8ed555eb

@@ -1,0 +1,5 @@
+/snap/clion/261/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/261/bin/ninja/linux/x64/ninja -G Ninja -S /home/notnuff/test_task/try/2022_linux_mac/2022_linux_mac/Project/Framework -B /home/notnuff/test_task/try/2022_linux_mac/2022_linux_mac/Project/Framework/cmake-build-debug
+SDL2 library found in /usr/lib/x86_64-linux-gnu/libSDL2.so
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/notnuff/test_task/try/2022_linux_mac/2022_linux_mac/Project/Framework/cmake-build-debug

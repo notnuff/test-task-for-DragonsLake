@@ -1,0 +1,6 @@
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/CMakeFiles/GameProject.dir
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/Framework/CMakeFiles/Framework.dir
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/Framework/CMakeFiles/edit_cache.dir
+/home/notnuff/test_task/try/2022_linux_mac/task_done_by_Oleksandr_Yaroshenko/Project/cmake-build-debug/Framework/CMakeFiles/rebuild_cache.dir
